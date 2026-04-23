@@ -78,6 +78,6 @@ dependencies:
     # Marimo integration for EECS 16A
     - marimo==0.14.16
     - click==8.2.1
-    - git+https://github.com/b-data/jupyter-marimo-proxy.git@jupyterlab-docker-stack
+    - git+https://github.com/b-data/jupyter-marimo-extension.git@jupyterlab-docker-stack
     # DH - 557 
     - datascience==0.18.0
